@@ -1,0 +1,43 @@
+﻿@page
+@model FinalProject.Pages.LoginModel
+@{
+}
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Login</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link rel="stylesheet" href="Login.cshtml.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="navbar">
+            <img src="images/logo.png" alt="" class="logo" />
+            <h1>Shoesify</h1>
+            <a href="#products">Products</a>
+            <a href="#">Home</a>
+            <span class="material-icons">favorite</span>
+            <span class="material-icons">shopping_cart</span>
+            <span class="material-icons">account_circle</span>
+        </div>
+        <div class="container">
+            <div class="ads">
+                <img src="images/login.png" alt="" class="login" />
+            </div>
+            <div class="content">
+                <h2>LOGIN</h2>
+                <div class="un-form">
+                    <input type="text" required="" class="un" placeholder="Username" />
+                </div>
+                <div class="pass-form">
+                    <input type="password" required="" class="pass" placeholder="Password" />
+                </div>
+                <input type="submit" class="btn" Text="Login" />
+                <p>Don't have an account? <a href="#signup">Click Here</a></p>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

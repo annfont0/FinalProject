@@ -1,0 +1,72 @@
+﻿/*main body*/
+.container {
+    text-align: center;
+    width: 95%;
+    height: 90%;
+    margin: auto;
+    padding-top: 80px;
+}
+
+.ads {
+    float: left;
+    width: 50%;
+    height: 500px;
+}
+
+.content {
+    float: left;
+    width: 50%;
+    background-color: white;
+    height: 460px;
+}
+
+.login {
+    padding: 0;
+    height: auto;
+    width: auto;
+    max-height: 100%;
+    max-width: 100%;
+    float: right;
+}
+/*input fields*/
+.un-form {
+    height: 50px;
+    margin-bottom: 40px;
+}
+
+.un {
+    height: 100%;
+    width: 50%;
+    border-radius: 8px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.pass-form {
+    height: 50px;
+    margin-bottom: 60px;
+}
+
+.pass {
+    height: 100%;
+    width: 50%;
+    border-radius: 8px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.btn {
+    font-size: 25px;
+    background-color: #FEDD59;
+    height: 55px;
+    width: 52%;
+    border-radius: 8px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}

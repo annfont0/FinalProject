@@ -1,0 +1,77 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<html>
+<title>Products</title>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+<link href="Index.cshtml.css" rel="stylesheet" type="text/css" />
+
+
+<div class="navbar">
+    <img src="images/logo.png" alt="" class="logo" />
+    <h1>Shoesify</h1>
+
+    <a href="~/Index">Home</a>
+    <a href="~/Products">Products</a>
+        
+    
+
+    <span class="material-icons">favorite</span>
+    <span class="material-icons">shopping_cart</span>
+    <span class="material-icons">account_circle</span>
+
+</div>
+
+<body>
+    <div class="sale">
+        <h3>NEW ARRIVALS ON SALE</h3>
+    </div>
+
+    <div class="container">
+        <h4>LATEST PRODUCTS</h4>
+        <table>
+        @{
+            for (int r = 0; r < 3; r++)
+            {
+                    <tr style="display: inline-block; padding:20px; ">
+                    @{
+                        for (int c = 0; c < 3; c++)
+                        {
+                                <td style="display: inline-block; margin: 5px; border: 1px solid #CDCCC4; padding-bottom:10px; ">
+                                    <img src="https://images.unsplash.com/photo-1667848006694-5f032afe4e47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" height="300"/>
+                                    <h5>BRAND X SHOES</h5>
+                                    <h6>₱ 25, 200</h6>
+                                </td>
+                        }
+                    }
+                    </tr>
+
+                //<td>@homeProducts.prodID</td>
+            }
+        }
+        </table>
+    </div>
+
+
+    <div class="about-title">
+        About Shoesify
+    </div>
+    <div class="about-container">
+        <img src="images/logo.png" alt="" class="about-logo" />
+        <h5>Looking for the best products?</h5>
+        <h6 style="margin-left:15px; margin-top:30px; margin-bottom:35px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id sapien nibh. Integer faucibus nulla nec enim hendrerit aliquet. Integer eget augue fermentum, blandit nisl eget, viverra mi. Mauris blandit eros a euismod accumsan. Nam ultricies interdum urna quis hendrerit. Quisque augue risus, rhoncus sit amet eros non, aliquet mattis ex. Donec auctor vehicula ipsum, ac aliquet sapien vehicula et. Sed eget sem quis neque dapibus feugiat eu vitae eros.</h6>
+        <ul class="prodlist">
+            <li>Aliquam a auctor turpis. Aenean vitae dui mi.</li>
+            <li>Maecenas lobortis bibendum odio bibendum posuere.</li>
+            <li>Nunc congue suscipit mi vitae dapibus, Sed vitae orci ante.</li>
+            <li>Nullam luctus neque diam, non lobortis lacus ullamcorper nec.</li>
+        </ul>
+
+    </div>
+
+</body>
+
+</html>

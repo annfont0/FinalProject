@@ -1,0 +1,57 @@
+﻿@page
+@model FinalProject.Pages.RegisterModel
+@{
+}
+
+<html>
+<title>Register</title>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+<link href="Register.cshtml.css" rel="stylesheet" type="text/css" />
+
+
+<div class="navbar">
+    <img src="images/logo.png" alt="" class="logo" />
+    <h1>Shoesify</h1>
+
+    <a href="~/Products" class="gumana">Products</a>
+    <a href="~/Index" class="gumana">Home</a>
+
+
+   
+
+</div>
+
+<body>
+    
+    <form id="form1" runat="server">
+
+        
+        <div class="content">
+        <input type="text" name="fname" placeholder="Full Name" /> <br />
+        <input type="email" name="email" placeholder="Email" /><br />
+        <input type="text" name="num" placeholder="Contact No." /> <br />
+        <input type="text" name="nat" placeholder="Nationality" /> <br />
+        <input type="text" name="uname" placeholder="Username" /> <br />
+        <input type="password" name="pwd" placeholder="Password" /><br />
+        Birthday: <input type="date" name="bday" /><br />
+        Gender: <input type="radio" name="gender" value="Male" />Male
+        <input type="radio" name="gender" value="Female" /> Female <br />
+
+        <input type="submit" name="submit" value="Register" />
+
+    </form>
+
+    <div class="loglink">
+        Already member? <a asp-area="" asp-page="/Login">Click Here</a>
+    </div>
+    </div>
+      
+
+    
+    
+
+
+</body>
+
+</html>
+
