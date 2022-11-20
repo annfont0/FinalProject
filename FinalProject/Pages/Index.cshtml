@@ -36,20 +36,28 @@
         @{
             for (int r = 0; r < 3; r++)
             {
-                    <tr style="display: inline-block; padding:20px; ">
+                <tr style="display: inline-block; padding:20px; ">
                     @{
                         for (int c = 0; c < 3; c++)
                         {
-                                <td style="display: inline-block; margin: 5px; border: 1px solid #CDCCC4; padding-bottom:10px; ">
-                                    <img src="https://images.unsplash.com/photo-1667848006694-5f032afe4e47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" height="300"/>
-                                    <h5>BRAND X SHOES</h5>
-                                    <h6>₱ 25, 200</h6>
-                                </td>
+                            <td style="display: inline-block; margin: 5px; border: 1px solid #CDCCC4; padding-bottom:10px; ">
+                                <img src="https://images.unsplash.com/photo-1667848006694-5f032afe4e47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" height="300"/>
+                                <h5>BRAND X SHOES</h5>
+                                <h6>₱ 25, 200</h6>
+
+                            </td>
                         }
                     }
-                    </tr>
+                </tr>            
+            }
 
-                //<td>@homeProducts.prodID</td>
+            foreach (var products in Model.products) {
+                <tr>
+                        <td style="display: inline-block; margin: 5px; border: 1px solid #CDCCC4; padding-bottom:10px; ">
+                            <img src=@products.ProductPicture height="300" />
+                            <h5>@products.ProductName</h5>
+                            <h6>₱ @products.ProductPrice</h6>
+                </tr>
             }
         }
         </table>
