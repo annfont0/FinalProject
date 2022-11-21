@@ -1,0 +1,97 @@
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cache
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cs
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.json
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.staticwebassets.runtime.json
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.exe
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Pages\Index.cshtml.rz.scp.css
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Pages\Login.cshtml.rz.scp.css
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\bundle\FinalProject.styles.css
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\projectbundle\FinalProject.bundle.scp.css
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Pages\Products.cshtml.rz.scp.css
+C:\Users\Jairah\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Pages\Register.cshtml.rz.scp.css
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.json
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.staticwebassets.runtime.json
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.exe
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cache
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cs
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Pages\Index.cshtml.rz.scp.css
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Pages\Login.cshtml.rz.scp.css
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Pages\Products.cshtml.rz.scp.css
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Pages\Register.cshtml.rz.scp.css
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\bundle\FinalProject.styles.css
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\projectbundle\FinalProject.bundle.scp.css
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+C:\Users\fonta\Downloads\FinalProject-20221118T002303Z-001\FinalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.Development.json
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.json
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.staticwebassets.runtime.json
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.exe
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cache
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cs
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Pages\Index.cshtml.rz.scp.css
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Pages\Login.cshtml.rz.scp.css
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Pages\Products.cshtml.rz.scp.css
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Pages\Register.cshtml.rz.scp.css
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\bundle\FinalProject.styles.css
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\projectbundle\FinalProject.bundle.scp.css
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CopyComplete
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+D:\Microsoft Visual Studio\repos\FinalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll

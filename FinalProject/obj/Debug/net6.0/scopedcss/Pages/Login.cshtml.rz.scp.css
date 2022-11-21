@@ -1,0 +1,72 @@
+/*main body*/
+.container[b-7eoaxzx9oe] {
+    text-align: center;
+    width: 95%;
+    height: 90%;
+    margin: auto;
+    padding-top: 80px;
+}
+
+.ads[b-7eoaxzx9oe] {
+    float: left;
+    width: 50%;
+    height: 500px;
+}
+
+.content[b-7eoaxzx9oe] {
+    float: left;
+    width: 50%;
+    background-color: white;
+    height: 460px;
+}
+
+.login[b-7eoaxzx9oe] {
+    padding: 0;
+    height: auto;
+    width: auto;
+    max-height: 100%;
+    max-width: 100%;
+    float: right;
+}
+/*input fields*/
+.un-form[b-7eoaxzx9oe] {
+    height: 50px;
+    margin-bottom: 40px;
+}
+
+.un[b-7eoaxzx9oe] {
+    height: 100%;
+    width: 50%;
+    border-radius: 8px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.pass-form[b-7eoaxzx9oe] {
+    height: 50px;
+    margin-bottom: 60px;
+}
+
+.pass[b-7eoaxzx9oe] {
+    height: 100%;
+    width: 50%;
+    border-radius: 8px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.btn[b-7eoaxzx9oe] {
+    font-size: 25px;
+    background-color: #FEDD59;
+    height: 55px;
+    width: 52%;
+    border-radius: 8px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+h2[b-7eoaxzx9oe] {
+    font-size: 50px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}

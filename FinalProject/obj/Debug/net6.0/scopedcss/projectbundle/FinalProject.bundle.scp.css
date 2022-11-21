@@ -1,0 +1,311 @@
+/* _content/FinalProject/Pages/Index.cshtml.rz.scp.css */
+/*featured promo*/
+.sale[b-zub12inaqh] {
+    position: relative;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3%;
+}
+
+    .sale[b-zub12inaqh]::before {
+        content: "";
+        background-image: url("images/ProdBanner1.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+        left: 0px;
+        opacity: 0.55;
+    }
+
+h3[b-zub12inaqh] {
+    position: relative;
+    font-weight: bold;
+    color: white;
+    font-size: 4rem;
+    margin: 0;
+    text-align: center;
+    text-shadow: 8px 8px 8px #FFD700;
+}
+
+/* products */
+.container[b-zub12inaqh] {
+    position: relative;
+    max-width: 100%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+}
+
+h4[b-zub12inaqh] {
+    font-size: 20px;
+    margin: 1.5%;
+    color: #1C2C34;
+}
+
+h5[b-zub12inaqh] {
+    font-size: 20px;
+    margin: 15px;
+    font-weight: 800;
+    color: #32620E;
+}
+
+h6[b-zub12inaqh] {
+    font-size: 16px;
+    margin: 5px;
+    font-weight: 400;
+    color: #1C2C34;
+}
+
+table[b-zub12inaqh] {
+    text-align: center;
+}
+
+/* about */
+.about-container[b-zub12inaqh] {
+    width: 95%;
+    padding-left: 50px;
+}
+
+.about-title[b-zub12inaqh] {
+    font-size: 35px;
+    margin-top: 50px;
+    padding-left: 65px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #CDCCC4;
+    margin-bottom: 30px;
+}
+
+.about-container img[b-zub12inaqh] {
+    float: right;
+    height: 250px;
+    width: 250px;
+    padding: 20px;
+}
+/* _content/FinalProject/Pages/Login.cshtml.rz.scp.css */
+/*main body*/
+.container[b-7eoaxzx9oe] {
+    text-align: center;
+    width: 95%;
+    height: 90%;
+    margin: auto;
+    padding-top: 80px;
+}
+
+.ads[b-7eoaxzx9oe] {
+    float: left;
+    width: 50%;
+    height: 500px;
+}
+
+.content[b-7eoaxzx9oe] {
+    float: left;
+    width: 50%;
+    background-color: white;
+    height: 460px;
+}
+
+.login[b-7eoaxzx9oe] {
+    padding: 0;
+    height: auto;
+    width: auto;
+    max-height: 100%;
+    max-width: 100%;
+    float: right;
+}
+/*input fields*/
+.un-form[b-7eoaxzx9oe] {
+    height: 50px;
+    margin-bottom: 40px;
+}
+
+.un[b-7eoaxzx9oe] {
+    height: 100%;
+    width: 50%;
+    border-radius: 8px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.pass-form[b-7eoaxzx9oe] {
+    height: 50px;
+    margin-bottom: 60px;
+}
+
+.pass[b-7eoaxzx9oe] {
+    height: 100%;
+    width: 50%;
+    border-radius: 8px;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.btn[b-7eoaxzx9oe] {
+    font-size: 25px;
+    background-color: #FEDD59;
+    height: 55px;
+    width: 52%;
+    border-radius: 8px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+h2[b-7eoaxzx9oe] {
+    font-size: 50px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+/* _content/FinalProject/Pages/Products.cshtml.rz.scp.css */
+/*featured promo*/
+.sale[b-7cladjibk1] {
+    position: relative;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3%;
+}
+
+    .sale[b-7cladjibk1]::before {
+        content: "";
+        background-image: url("images/ProdBanner2.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+        left: 0px;
+        opacity: 0.55;
+    }
+
+h3[b-7cladjibk1] {
+    position: relative;
+    font-weight: bold;
+    color: white;
+    font-size: 4rem;
+    margin: 0;
+    text-align: center;
+    text-shadow: 8px 8px 8px #808080;
+}
+
+/* products */
+.container[b-7cladjibk1] {
+    position: relative;
+    max-width: 100%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+}
+
+h4[b-7cladjibk1] {
+    font-size: 30px;
+    text-align: center;
+    color: #1C2C34;
+    font-weight: bold;
+}
+
+h5[b-7cladjibk1] {
+    font-size: 20px;
+    margin: 15px;
+    font-weight: 800;
+    color: #32620E;
+}
+
+h6[b-7cladjibk1] {
+    font-size: 16px;
+    margin: 5px;
+    font-weight: 400;
+    color: #1C2C34;
+}
+
+table[b-7cladjibk1] {
+    text-align: center;
+}
+
+/* about */
+.about-container[b-7cladjibk1] {
+    width: 95%;
+    padding-left: 50px;
+}
+
+.about-title[b-7cladjibk1] {
+    font-size: 35px;
+    margin-top: 50px;
+    padding-left: 65px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #CDCCC4;
+    margin-bottom: 30px;
+}
+
+.about-container img[b-7cladjibk1] {
+    float: right;
+    height: 250px;
+    width: 250px;
+    padding: 20px;
+}
+
+a[b-7cladjibk1] {
+font-size:90px;
+}
+
+/* _content/FinalProject/Pages/Register.cshtml.rz.scp.css */
+.content[b-187kuawwy9] {
+   margin:30px 120px;
+    width: 85%;
+    background-color: white;
+    height: 540px;
+}
+/* _content/FinalProject/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-srxpow6wk7] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-srxpow6wk7] {
+  color: #0077cc;
+}
+
+.btn-primary[b-srxpow6wk7] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-srxpow6wk7], .nav-pills .show > .nav-link[b-srxpow6wk7] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-srxpow6wk7] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-srxpow6wk7] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-srxpow6wk7] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-srxpow6wk7] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-srxpow6wk7] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
