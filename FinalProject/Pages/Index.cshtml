@@ -34,7 +34,9 @@
         <h4>LATEST PRODUCTS</h4>
         <table>
         @{
-            for (int r = 0; r < 3; r++)
+            int i = Model.products.Count;
+            
+            for (int r = 0; r < 1; r++)
             {
                 <tr style="display: inline-block; padding:20px; ">
                     @{
